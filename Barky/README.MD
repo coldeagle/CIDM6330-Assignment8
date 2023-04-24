@@ -1,3 +1,6 @@
+# Assignment 8 - Jason Hardy
+Includes adaptations for the assignment
+
 # Barky
 
 Barky is inspired by Dane Hillard's Bark example of an application that demonstrates some basic software engineering principles such as:
